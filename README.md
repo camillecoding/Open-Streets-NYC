@@ -25,5 +25,5 @@ As a patronizing participant in this program, I relied on an existing understand
 
 Feel free to explore the public Tableau link above to reveal all the insights!
 
-<img width="1215" alt="Screen Shot 2022-03-09 at 9 33 59 PM" src="https://user-images.githubusercontent.com/95657458/157577024-87fdb1c3-5a02-4f43-80c9-d6c2d7563803.png">
+<img width="608" alt="Screen Shot 2022-03-09 at 9 33 59 PM" src="https://user-images.githubusercontent.com/95657458/157577024-87fdb1c3-5a02-4f43-80c9-d6c2d7563803.png">
 
