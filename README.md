@@ -24,3 +24,6 @@ Although Queens only had the third largest share of Open Streets, neighborhoods 
 As a patronizing participant in this program, I relied on an existing understanding of NYC demographics by neighborhood. I used this knowledge to focus on the availability of Open Streets access. I concluded that based on available data, the neighborhoods represented were an appropriate sampling of the city. 
 
 Feel free to explore the public Tableau link above to reveal all the insights!
+
+<img width="1215" alt="Screen Shot 2022-03-09 at 9 33 59 PM" src="https://user-images.githubusercontent.com/95657458/157577024-87fdb1c3-5a02-4f43-80c9-d6c2d7563803.png">
+
