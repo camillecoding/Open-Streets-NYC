@@ -13,11 +13,11 @@ Although intended for good, it drew ire from some groups for various reasons. Pr
 I wanted to research the design of the program itself, and find out whether certain boroughs or neighborhoods were disproportionally represented in this program - for better or worse. 
 
 Manhattan had the greatest share of Open Streets, followed closely by Brooklyn. Although Queens is the largest borough based on size, Brooklyn is the largest based on population (as of July 2021). 
-<img width="1028" alt="Screen Shot 2022-03-09 at 9 25 53 PM" src="https://user-images.githubusercontent.com/95657458/157576121-a44885ad-f589-493a-b27e-ccd98337e8cf.png">
+<img width="1028" alt="Open Streets by Borough" src="https://user-images.githubusercontent.com/95657458/157576121-a44885ad-f589-493a-b27e-ccd98337e8cf.png">
 
 
 Although Queens only had the third largest share of Open Streets, neighborhoods in Queens selected for Open Streets had much higher participation rates.
-<img width="1009" alt="Screen Shot 2022-03-09 at 9 28 26 PM" src="https://user-images.githubusercontent.com/95657458/157576407-176104b0-0dd4-4d5a-aef6-062c074cea35.png">
+<img width="1009" alt="Queens Open Streets participation" src="https://user-images.githubusercontent.com/95657458/157576407-176104b0-0dd4-4d5a-aef6-062c074cea35.png">
 
 
 
@@ -25,5 +25,5 @@ As a patronizing participant in this program, I relied on an existing understand
 
 Feel free to explore the public Tableau link above to reveal all the insights!
 
-<img width="608" alt="Screen Shot 2022-03-09 at 9 33 59 PM" src="https://user-images.githubusercontent.com/95657458/157577024-87fdb1c3-5a02-4f43-80c9-d6c2d7563803.png">
+<img width="608" align="center" alt="A Photo taken in Chinatown" src="https://user-images.githubusercontent.com/95657458/157577024-87fdb1c3-5a02-4f43-80c9-d6c2d7563803.png">
 
